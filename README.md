@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b00mshaka1aka
-- 👀 I’m interested in JavaScript, React
+- 👀 I’m interested in all :)
 
 <!---
 b00mshaka1aka/b00mshaka1aka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
